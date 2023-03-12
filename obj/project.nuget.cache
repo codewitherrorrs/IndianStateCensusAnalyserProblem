@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "43kijN38cJ9lE3dK6VTh8lS7bgtajzgeqeXRrpLBJcWdeimpdmYHdGe1dk93Lorajan+oPNN8TfAZRrmPsW78w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\IndianStateCensusAnalyserProblem\\IndianStateCensusAnalyserProblem\\IndianStateCensusAnalyserProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

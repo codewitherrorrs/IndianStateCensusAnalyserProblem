@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\bin\Debug\net6.0\IndianStateCensusAnalyserProblem.exe
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\bin\Debug\net6.0\IndianStateCensusAnalyserProblem.deps.json
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\bin\Debug\net6.0\IndianStateCensusAnalyserProblem.runtimeconfig.json
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\bin\Debug\net6.0\IndianStateCensusAnalyserProblem.dll
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\bin\Debug\net6.0\IndianStateCensusAnalyserProblem.pdb
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\obj\Debug\net6.0\IndianStateCensusAnalyserProblem.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\obj\Debug\net6.0\IndianStateCensusAnalyserProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\obj\Debug\net6.0\IndianStateCensusAnalyserProblem.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\obj\Debug\net6.0\IndianStateCensusAnalyserProblem.AssemblyInfo.cs
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\obj\Debug\net6.0\IndianStateCensusAnalyserProblem.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\obj\Debug\net6.0\IndianStateCensusAnalyserProblem.dll
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\obj\Debug\net6.0\refint\IndianStateCensusAnalyserProblem.dll
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\obj\Debug\net6.0\IndianStateCensusAnalyserProblem.pdb
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\obj\Debug\net6.0\IndianStateCensusAnalyserProblem.genruntimeconfig.cache
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\obj\Debug\net6.0\ref\IndianStateCensusAnalyserProblem.dll
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\USER\source\repos\IndianStateCensusAnalyserProblem\IndianStateCensusAnalyserProblem\obj\Debug\net6.0\IndianStateCensusAnalyserProblem.csproj.CopyComplete
