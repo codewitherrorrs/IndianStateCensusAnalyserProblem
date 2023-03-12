@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace IndianStateCensusAnalyserProblem
 {
-    public class InvalidCSVFormatException : Exception
+    public class InvalidDataTypeException : Exception
     {
-        public InvalidCSVFormatException(string message) : base(message)
+        public InvalidDataTypeException(string message) : base(message)
         {
         }
     }
